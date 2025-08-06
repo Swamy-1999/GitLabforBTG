@@ -15,5 +15,5 @@ port = 443
 is_https_enabled = False
 
 # # Print the updated configuration
-# print(f"Updated Port: {port}")
-# print(f"Updated HTTPS Enabled: {is_https_enabled}")
+print(f"Updated Port: {port}")
+print(f"Updated HTTPS Enabled: {is_https_enabled}")
